@@ -1,0 +1,11 @@
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojResolveAssemblyReference.cache
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+E:\Manthan Gandhi\Projects\Demo\ASPNetCore\BethanysPieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
