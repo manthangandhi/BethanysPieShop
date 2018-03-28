@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Identity;
 using BethanysPieShop.ViewModels;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+// For more information on Copied by om
+
 
 namespace BethanysPieShop.Controllers
 {
